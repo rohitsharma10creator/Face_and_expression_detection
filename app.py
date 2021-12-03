@@ -1,6 +1,5 @@
 import streamlit as st
 from multiapp import MultiApp
-import dash
 from apps import home, app1, convert # import your app modules here
 
 app = MultiApp()
