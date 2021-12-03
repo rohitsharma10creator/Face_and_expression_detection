@@ -3,9 +3,9 @@ pandas==1.1.3
 scikit-learn==0.23.2
 numpy~=1.21.2
 keras~=2.4.3
-opencv-contrib-python-headless==4.5.4.60
+opencv-contrib-python-headless
 tensorflow-cpu==2.7.0
-streamlit_webrtc==0.32.0
+streamlit_webrtc
 cvlib==0.2.6
-scipy==1.7.3
+scipy
 Pillow==8.4.0
